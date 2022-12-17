@@ -966,11 +966,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\Desktop\\PowerBi Demo\\PowerBi.csproj",
+      "projectUniqueName": "D:\\Projects\\My_Projects\\GithubProjects\\.NetCore-PowerBI-Demo\\PowerBi.csproj",
       "projectName": "PowerBi",
-      "projectPath": "C:\\Users\\dell\\Desktop\\PowerBi Demo\\PowerBi.csproj",
+      "projectPath": "D:\\Projects\\My_Projects\\GithubProjects\\.NetCore-PowerBI-Demo\\PowerBi.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\Desktop\\PowerBi Demo\\obj\\",
+      "outputPath": "D:\\Projects\\My_Projects\\GithubProjects\\.NetCore-PowerBI-Demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

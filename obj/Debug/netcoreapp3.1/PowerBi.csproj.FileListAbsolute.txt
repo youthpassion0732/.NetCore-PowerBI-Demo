@@ -103,3 +103,38 @@ C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.csproj.CopyCo
 C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.dll
 C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.pdb
 C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.genruntimeconfig.cache
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\bin\Debug\netcoreapp3.1\libman.json
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\bin\Debug\netcoreapp3.1\PowerBi.exe
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\bin\Debug\netcoreapp3.1\PowerBi.deps.json
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\bin\Debug\netcoreapp3.1\PowerBi.runtimeconfig.json
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\bin\Debug\netcoreapp3.1\PowerBi.runtimeconfig.dev.json
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\bin\Debug\netcoreapp3.1\PowerBi.dll
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\bin\Debug\netcoreapp3.1\PowerBi.pdb
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\bin\Debug\netcoreapp3.1\PowerBi.Views.dll
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\bin\Debug\netcoreapp3.1\PowerBi.Views.pdb
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\bin\Debug\netcoreapp3.1\Microsoft.PowerBI.Api.dll
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.csproj.AssemblyReference.cache
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.AssemblyInfoInputs.cache
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.AssemblyInfo.cs
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.csproj.CoreCompileInputs.cache
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.RazorAssemblyInfo.cache
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.RazorAssemblyInfo.cs
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\staticwebassets\PowerBi.StaticWebAssets.Manifest.cache
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.TagHelpers.input.cache
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.TagHelpers.output.cache
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.RazorCoreGenerate.cache
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.RazorTargetAssemblyInfo.cache
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.RazorTargetAssemblyInfo.cs
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.Views.pdb
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.csproj.CopyComplete
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.dll
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.pdb
+D:\Projects\My_Projects\GithubProjects\.NetCore-PowerBI-Demo\obj\Debug\netcoreapp3.1\PowerBi.genruntimeconfig.cache
