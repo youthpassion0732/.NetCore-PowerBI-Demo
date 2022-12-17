@@ -1,0 +1,105 @@
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\PowerBi.exe
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\PowerBi.deps.json
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\PowerBi.runtimeconfig.json
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\PowerBi.runtimeconfig.dev.json
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\PowerBi.dll
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\PowerBi.pdb
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\PowerBi.Views.dll
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\PowerBi.Views.pdb
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.PowerBI.Api.dll
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.csproj.AssemblyReference.cache
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.AssemblyInfoInputs.cache
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.AssemblyInfo.cs
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.csproj.CoreCompileInputs.cache
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.RazorAssemblyInfo.cache
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.RazorAssemblyInfo.cs
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\staticwebassets\PowerBi.StaticWebAssets.Manifest.cache
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.TagHelpers.input.cache
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.TagHelpers.output.cache
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.RazorCoreGenerate.cache
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.RazorTargetAssemblyInfo.cache
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.RazorTargetAssemblyInfo.cs
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.Views.pdb
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.csproj.CopyComplete
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.dll
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.pdb
+C:\Users\NoumanMalik\Downloads\Compressed\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\PowerBi.genruntimeconfig.cache
+C:\Users\dell\Desktop\New folder\PowerBi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dell\Desktop\New folder\PowerBi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dell\Desktop\New folder\PowerBi\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\dell\Desktop\New folder\PowerBi\bin\Debug\netcoreapp3.1\PowerBi.exe
+C:\Users\dell\Desktop\New folder\PowerBi\bin\Debug\netcoreapp3.1\PowerBi.deps.json
+C:\Users\dell\Desktop\New folder\PowerBi\bin\Debug\netcoreapp3.1\PowerBi.runtimeconfig.json
+C:\Users\dell\Desktop\New folder\PowerBi\bin\Debug\netcoreapp3.1\PowerBi.runtimeconfig.dev.json
+C:\Users\dell\Desktop\New folder\PowerBi\bin\Debug\netcoreapp3.1\PowerBi.dll
+C:\Users\dell\Desktop\New folder\PowerBi\bin\Debug\netcoreapp3.1\PowerBi.pdb
+C:\Users\dell\Desktop\New folder\PowerBi\bin\Debug\netcoreapp3.1\PowerBi.Views.dll
+C:\Users\dell\Desktop\New folder\PowerBi\bin\Debug\netcoreapp3.1\PowerBi.Views.pdb
+C:\Users\dell\Desktop\New folder\PowerBi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\dell\Desktop\New folder\PowerBi\bin\Debug\netcoreapp3.1\Microsoft.PowerBI.Api.dll
+C:\Users\dell\Desktop\New folder\PowerBi\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\dell\Desktop\New folder\PowerBi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.AssemblyInfo.cs
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.RazorAssemblyInfo.cache
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.RazorAssemblyInfo.cs
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\staticwebassets\PowerBi.StaticWebAssets.Manifest.cache
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.TagHelpers.input.cache
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.TagHelpers.output.cache
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.RazorCoreGenerate.cache
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.RazorTargetAssemblyInfo.cache
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.RazorTargetAssemblyInfo.cs
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.Views.pdb
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.csproj.CopyComplete
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.dll
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.pdb
+C:\Users\dell\Desktop\New folder\PowerBi\obj\Debug\netcoreapp3.1\PowerBi.genruntimeconfig.cache
+C:\Users\dell\Desktop\PowerBi Demo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dell\Desktop\PowerBi Demo\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\dell\Desktop\PowerBi Demo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dell\Desktop\PowerBi Demo\bin\Debug\netcoreapp3.1\PowerBi.exe
+C:\Users\dell\Desktop\PowerBi Demo\bin\Debug\netcoreapp3.1\PowerBi.deps.json
+C:\Users\dell\Desktop\PowerBi Demo\bin\Debug\netcoreapp3.1\PowerBi.runtimeconfig.json
+C:\Users\dell\Desktop\PowerBi Demo\bin\Debug\netcoreapp3.1\PowerBi.runtimeconfig.dev.json
+C:\Users\dell\Desktop\PowerBi Demo\bin\Debug\netcoreapp3.1\PowerBi.dll
+C:\Users\dell\Desktop\PowerBi Demo\bin\Debug\netcoreapp3.1\PowerBi.pdb
+C:\Users\dell\Desktop\PowerBi Demo\bin\Debug\netcoreapp3.1\PowerBi.Views.dll
+C:\Users\dell\Desktop\PowerBi Demo\bin\Debug\netcoreapp3.1\PowerBi.Views.pdb
+C:\Users\dell\Desktop\PowerBi Demo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\dell\Desktop\PowerBi Demo\bin\Debug\netcoreapp3.1\Microsoft.PowerBI.Api.dll
+C:\Users\dell\Desktop\PowerBi Demo\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\dell\Desktop\PowerBi Demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.AssemblyInfo.cs
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.RazorAssemblyInfo.cache
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.RazorAssemblyInfo.cs
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\staticwebassets\PowerBi.StaticWebAssets.Manifest.cache
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.TagHelpers.input.cache
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.TagHelpers.output.cache
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.RazorCoreGenerate.cache
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.RazorTargetAssemblyInfo.cache
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.RazorTargetAssemblyInfo.cs
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.Views.pdb
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.csproj.CopyComplete
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.dll
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.pdb
+C:\Users\dell\Desktop\PowerBi Demo\obj\Debug\netcoreapp3.1\PowerBi.genruntimeconfig.cache
